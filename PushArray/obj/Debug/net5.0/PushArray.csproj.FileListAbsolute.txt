@@ -1,0 +1,16 @@
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\PushArray.exe
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\PushArray.deps.json
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\PushArray.runtimeconfig.json
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\PushArray.runtimeconfig.dev.json
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\PushArray.dll
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\ref\PushArray.dll
+D:\projects\for_test\PushArray\PushArray\bin\Debug\net5.0\PushArray.pdb
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.csproj.AssemblyReference.cache
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.AssemblyInfoInputs.cache
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.AssemblyInfo.cs
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.csproj.CoreCompileInputs.cache
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.dll
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\ref\PushArray.dll
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.pdb
+D:\projects\for_test\PushArray\PushArray\obj\Debug\net5.0\PushArray.genruntimeconfig.cache
