@@ -1,6 +1,0 @@
-E:\projects\PushArray\PushArray\bin\Debug\PushArray.exe.config
-E:\projects\PushArray\PushArray\bin\Debug\PushArray.exe
-E:\projects\PushArray\PushArray\bin\Debug\PushArray.pdb
-E:\projects\PushArray\PushArray\obj\Debug\PushArray.csproj.CoreCompileInputs.cache
-E:\projects\PushArray\PushArray\obj\Debug\PushArray.exe
-E:\projects\PushArray\PushArray\obj\Debug\PushArray.pdb
